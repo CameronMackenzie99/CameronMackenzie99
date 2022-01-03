@@ -1,6 +1,6 @@
 ## About Me
 ### Hello, I'm Cameron! 👋
-### I am a chemistry Master's graduate from the UK who is looking for a career in software engineering, using skills gained through my industrial Master's project as well as personal project-based learning.
+### A chemistry Master's graduate from the UK who is looking for a career in software engineering, using skills gained through my industrial Master's project as well as personal project-based learning.
 - 🔭 I’m currently working on:
   - [take-home-pay-calculator](https://github.com/CameronMackenzie99/take-home-pay-calculator): Aims to emulate common online calculators for calculating tax and national insurance, but with more complex data visualisation, for example comparison to previous tax years, and net pay history over time.
   	 - Technologies: Python, with SQL databases in the works. Currently a CLU but aim to build a front end in the future and use Docker to containerise as web app for deployment.

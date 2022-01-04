@@ -2,17 +2,16 @@
 ### Hello, I'm Cameron! 👋
 ### A chemistry Master's graduate from the UK who is looking for a career in software engineering, using skills gained through my industrial Master's project as well as personal project-based learning.
 - 🔭 I’m currently working on:
-  - [take-home-pay-calculator](https://github.com/CameronMackenzie99/take-home-pay-calculator): Aims to emulate common online calculators for calculating tax and national insurance, but with more complex data visualisation, for example comparison to previous tax years, and net pay history over time.
+  - [**take-home-pay-calculator**](https://github.com/CameronMackenzie99/take-home-pay-calculator): Aims to emulate common online calculators for calculating tax and national insurance, but with more complex data visualisation, for example comparison to previous tax years, and net pay history over time.
   	 - Technologies: Python, with SQL databases in the works. Currently a CLU but aim to build a front end in the future and use Docker to containerise as web app for deployment.
-  - CS61A Computer Science Course: I am solidifying the foundations of computer science alongside my project-based learning.
-  - [leetcode-solutions](https://github.com/CameronMackenzie99/leetcode-solutions/): Practice of basic leetcode problems to improve my understanding of data structures, time complexities and debugging.
+  - **CS61A Computer Science Course**: I am solidifying the foundations of computer science alongside my project-based learning.
+  - [**leetcode-solutions**](https://github.com/CameronMackenzie99/leetcode-solutions/): Practice of leetcode problems to improve my understanding of data structures, time complexities and debugging.
 - 🌱 I’m currently learning:
-	- Environment management: [pipenv](https://docs.pipenv.org/en/latest/#) combines virtual enviroment and package installation for easy management of dependencies.
- 	- Asynchronous programming: for using APIs to get data.
- 	- SQL databases: for storing data in [take-home-pay-calculator](https://github.com/CameronMackenzie99/take-home-pay-calculator) project.
- 	- TeX: My CV is built with the LaTeX macro package, which I learnt from an existing popular template which I have modified to suit my needs. Analysing and modifying existing code is one of my key self-directed learning methods.
- 	- DevOps principles: CI/CD using GitHub Actions: [take-home-pay-calculator](https://github.com/CameronMackenzie99/take-home-pay-calculator) uses CI workflows to lint and test code.
-		- Will expand this to running tests when codebase grows for current project.
+	- **Environment management**: [pipenv](https://docs.pipenv.org/en/latest/#) combines virtual enviroment and package installation for easy management of dependencies.
+ 	- **Asynchronous programming**: for using APIs to get data.
+ 	- **SQL databases**: for storing data in [take-home-pay-calculator](https://github.com/CameronMackenzie99/take-home-pay-calculator) project.
+ 	- **DevOps principles**: CI/CD using GitHub Actions, [take-home-pay-calculator](https://github.com/CameronMackenzie99/take-home-pay-calculator) uses CI workflows to lint and test code.
+	- **TeX**: My CV is built with the LaTeX macro package, which I learnt from an existing popular template which I have modified to suit my needs. Analysing and modifying existing code is one of my key self-directed learning methods.
 - 📫 Contact Me:
  	- <a href="https://www.linkedin.com/in/cameron-mackenzie1999/" target="_blank"><img alt="linkedin | LinkedIn" height="23px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 	- I am seeking a graduate role in the UK for any company with a passion for problem solving!
@@ -21,7 +20,7 @@
 - 🔳 Land a career job!
 - ✔️ Implement core features of the take home pay calculator.
 - 🔳 Build front-end for web app.
-- 🔳 Learn how to deploy web apps to other users.
+- 🔳 Deploy web app to other users.
 - 🔳 Continue to grow my technical skills and learn new technologies.
 - 🔳 Refine my project planning and teamwork abilities with agile and SCRUM methodologies.
 <!--

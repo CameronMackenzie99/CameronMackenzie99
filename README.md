@@ -11,7 +11,7 @@
  	- Asynchronous programming: for using APIs to get data.
  	- SQL databases: for storing data in [take-home-pay-calculator](https://github.com/CameronMackenzie99/take-home-pay-calculator) project.
  	- TeX: My CV is built with the LaTeX macro package, which I learnt from an existing popular template which I have modified to suit my needs. Analysing and modifying existing code is one of my key self-directed learning methods.
- 	- DevOps principles: CI/CD using GitHub Actions (used currently for linting code on push)
+ 	- DevOps principles: CI/CD using GitHub Actions: [take-home-pay-calculator](https://github.com/CameronMackenzie99/take-home-pay-calculator) uses CI workflows to lint and test code.
 		- Will expand this to running tests when codebase grows for current project.
 - 📫 Contact Me:
  	- <a href="https://www.linkedin.com/in/cameron-mackenzie1999/" target="_blank"><img alt="linkedin | LinkedIn" height="23px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 

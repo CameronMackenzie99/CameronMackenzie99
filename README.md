@@ -8,7 +8,8 @@
   - [**leetcode-solutions**](https://github.com/CameronMackenzie99/leetcode-solutions/): Practice of leetcode problems to improve my understanding of data structures, time complexities and debugging.
 - 🌱 I’m currently learning:
 	- **FastAPI and React**: for deploying [take-home-pay-calculator](https://github.com/CameronMackenzie99/take-home-pay-calculator) as a web app with a frontend.
- 	- **Asynchronous programming**: for interacting with APIs.
+ 	- **Javascript**: apply python knowledge to JS, to learn React and NodeJS.
+	- **Asynchronous programming**: for interacting with APIs.
  	- **SQL databases**: for storing data in [take-home-pay-calculator](https://github.com/CameronMackenzie99/take-home-pay-calculator) project.
  	- **DevOps principles**: CI/CD using GitHub Actions, [take-home-pay-calculator](https://github.com/CameronMackenzie99/take-home-pay-calculator) uses CI workflows to lint and test code.
  	- **Environment management**: [pipenv](https://docs.pipenv.org/en/latest/#) combines virtual enviroment and package installation for easy management of dependencies.

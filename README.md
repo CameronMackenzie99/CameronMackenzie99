@@ -2,12 +2,14 @@
 ### Hello, I'm Cameron! 👋
 ### A chemistry Master's graduate from the UK who is looking for a career in software engineering, using skills gained through my industrial Master's project as well as personal project-based learning.
 - 🔭 I’m currently working on:
-  - [**take-home-pay-calculator**](https://github.com/CameronMackenzie99/take-home-pay-calculator): Aims to emulate common online calculators for calculating tax and national insurance, but with more complex data visualisation, for example comparison to previous tax years, and net pay history over time.
-  	 - Technologies: Python, FastAPI. Currently a command line script in process of integrating FastAPI, and building a front end with React and using Docker to containerise as web app for deployment.
-  - **CS61A Computer Science Course**: I am solidifying the foundations of computer science alongside my project-based learning.
+  - [**take-home-pay-calculator**](https://github.com/CameronMackenzie99/take-home-pay-calculator): An API that aims to emulate common online calculators for calculating tax and national insurance, but with more complex data visualisation, for example comparison to previous tax years, and net pay history over time.
+  	 - Technologies: Python, FastAPI. 
+  	 - Learning to build a front end with React and use Docker to containerise as web app for deployment. Will implement database layer for configuration information.
   - [**leetcode-solutions**](https://github.com/CameronMackenzie99/leetcode-solutions/): Practice of leetcode problems to improve my understanding of data structures, time complexities and debugging. Use of Jest testing framework to validate javascript solutions and doctests for python solutions.
+  - **CS61A Computer Science Course**: I am solidifying the foundations of computer science alongside my project-based learning.
+
 - 🌱 I’m currently learning:
-	- **FastAPI and React**: for deploying [take-home-pay-calculator](https://github.com/CameronMackenzie99/take-home-pay-calculator) as a web app with a frontend.
+	- **React**: for deploying [take-home-pay-calculator](https://github.com/CameronMackenzie99/take-home-pay-calculator) as a web app with a frontend.
  	- **Javascript**: apply python knowledge to JS and TypeScript, to learn React and NodeJS.
 	- **Asynchronous programming**: for interacting with APIs.
  	- **SQL databases**: for storing data in [take-home-pay-calculator](https://github.com/CameronMackenzie99/take-home-pay-calculator) project.

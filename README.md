@@ -8,10 +8,10 @@
 ### 🔭 I’m currently working on:
 - [**portfolio-website**](https://github.com/CameronMackenzie99/portfolio-website) 
 	- A place to document my learning in the software world, and learn as I build!
-	- React, Tailwind CSS ⚡ State management, hooks, UI/UX design, dynamic web pages, component testing...
+	- <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> ⚡ State management, hooks, UI/UX design, dynamic web pages, component testing...
 - [**take-home-pay-calculator**](https://github.com/CameronMackenzie99/take-home-pay-calculator)
 	- An API that aims to emulate common online calculators for calculating tax and national insurance but with more complex data visualisation, for example comparison to previous tax years, and net pay history over time.
-	- Python, FastAPI, Docker ⚡ REST API, HTTP, error handling, SOLID principles, abstraction, containerisation...
+	- <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img align="center" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /> <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> ⚡ REST API, HTTP, error handling, SOLID principles, abstraction, containerisation...
 - [**leetcode-solutions**](https://github.com/CameronMackenzie99/leetcode-solutions/)
 	-  Deepen understanding of data structures, algorithms, time complexities and debugging. 
 	-  Use of Jest testing framework to validate javascript solutions and doctests for python solutions.
@@ -35,8 +35,12 @@
 - ♾️ Continue to grow my technical skills and learn new technologies.
 - ♾️ Refine my project planning and teamwork abilities with agile and SCRUM methodologies.
 
-![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CameronMackenzie99&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronMackenzie99&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CameronMackenzie99&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CameronMackenzie99&hide=html&layout=compact&theme=dark" />
+</a>
 <!--
 **CameronMackenzie99/CameronMackenzie99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

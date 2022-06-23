@@ -25,7 +25,7 @@
 	- Exposure to wider range of deployment solutions. Would like to use Vercel to deploy next full-stack project using Next.js, with a full backend to store and manage user data.
 
 ## 🥅 Goals for 2022
-- 🔳 Land a career job!
+- ✔️ Land a career job!
 - ✔️ Implement core features of the take home pay calculator.
 - ✔️ Build front-end for web app.
 - ✔️ Deploy web app to other users.

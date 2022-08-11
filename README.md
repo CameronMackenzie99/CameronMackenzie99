@@ -6,7 +6,7 @@
  <a href="https://www.linkedin.com/in/cameron-mackenzie1999/" target="_blank"><img alt="linkedin | LinkedIn" height="23px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.cameronmackenzie.dev" target="_blank"><img alt="website link" height="23px" src="https://img.shields.io/badge/Website-10b981?style=for-the-badge&logo=&logoColor=white" /></a>  
 ---
 ### 🔭 I’m currently working on:
-- [**matrix-calculator**]()
+- [**matrix-calculator**](https://github.com/CameronMackenzie99/matrix-calculator)
 	- A simple matrix calculator that computes the dot product of two matrices.
 	- <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img align="center" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" /> ⚡ TypeScript, hooks & memoisation, state
 - [**portfolio-website**](https://github.com/CameronMackenzie99/portfolio-website) 

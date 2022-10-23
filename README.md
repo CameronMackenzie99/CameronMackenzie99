@@ -1,8 +1,5 @@
 ## About Me
 ### Hello, I'm Cameron! 👋
-#### I am a chemistry Master's graduate pursuing a career in software/web development, building on skills gained through my industrial Master's project and degree. 
-
-#### I strongly believe in project-based learning, and I would love to apply the skills I have gained to build something brilliant for a company with a passion for using technology to help people and society.
  <a href="https://www.linkedin.com/in/cameron-mackenzie1999/" target="_blank"><img alt="linkedin | LinkedIn" height="23px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.cameronmackenzie.dev" target="_blank"><img alt="website link" height="23px" src="https://img.shields.io/badge/Website-10b981?style=for-the-badge&logo=&logoColor=white" /></a>  
 ---
 ### 🔭 I’m currently working on:

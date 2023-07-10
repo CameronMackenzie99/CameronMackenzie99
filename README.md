@@ -5,8 +5,6 @@
 ### 🔭 I’m currently working on:
 - [**student-loan-tracker**](https://github.com/CameronMackenzie99/student-loan-tracker) <img align="center" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 	- A web app that calculates and tracks your student loan. ⚡ T3 stack, NextAuth, Prisma, tRPC, TailwindCSS 
-- [**ccat-group**](https://github.com/CameronMackenzie99/ccatgroup) <img align="center" src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white" />
- 	- Static site for aviation consultancy. Built with Astro for fast loading, with reactive "island" contact form for SPA feel.
 ### 🌱 I’m currently learning:
 - **NextJS**
 	- For student-loan-tracker project, with SSR.
@@ -17,7 +15,7 @@
 - **State Machines**
 	- Xstate for finite state machines. State machines used at work so curious to explore in TS on top of C#.
 ## 🥅 Goals for 2023
-- 🔳 Deploy MVP of student loan tracker to users
+- ✅ Deploy MVP of student loan tracker to users
 - 🔳 Learn about serverless deployment of web apps
 - ♾️ Continue to learn new technologies
 

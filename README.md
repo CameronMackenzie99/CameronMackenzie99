@@ -7,7 +7,7 @@
 	- A web app that calculates and tracks your student loan. ⚡ T3 stack, Next.js, Shadcn-ui, TailwindCSS 
 ### 🌱 I’m currently learning:
 - **NextJS**
-	- For student-loan-tracker project, with SSR.
+	- For student-loan-tracker project, with a mixture of server and client-side rendering.
 - **Figma**
 	- For creating quick mock-ups of screens
 - **tRPC**

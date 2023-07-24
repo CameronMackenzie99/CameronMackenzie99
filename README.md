@@ -4,19 +4,19 @@
 ---
 ### 🔭 I’m currently working on:
 - [**student-loan-tracker**](https://github.com/CameronMackenzie99/student-loan-tracker) <img align="center" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-	- A web app that calculates and tracks your student loan. ⚡ T3 stack, NextAuth, Prisma, tRPC, TailwindCSS 
+	- A web app that calculates and tracks your student loan. ⚡ T3 stack, Next.js, Shadcn-ui, TailwindCSS 
 ### 🌱 I’m currently learning:
 - **NextJS**
 	- For student-loan-tracker project, with SSR.
+- **Figma**
+	- For creating quick mock-ups of screens
 - **tRPC**
 	- tRPC for end-to-end typesafety in API. Use with Zod for schema validation.
-- **Serverless**
-	- Deploy serverless db and investigate deploying NextJS app auth with serverless functions (Vercel).
 - **State Machines**
 	- Xstate for finite state machines. State machines used at work so curious to explore in TS on top of C#.
 ## 🥅 Goals for 2023
 - ✅ Deploy MVP of student loan tracker to users
-- 🔳 Learn about serverless deployment of web apps
+- ✅ Learn about serverless deployment of web apps
 - ♾️ Continue to learn new technologies
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

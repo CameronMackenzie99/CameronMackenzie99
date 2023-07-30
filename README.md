@@ -1,5 +1,5 @@
 ## About Me
-### Hello, I'm Cameron! I'm working as a Graduate Software Engineer 👋
+### Hello, I'm Cameron! I am a software engineer based in the UK who loves building products that people love using.
  <a href="https://www.linkedin.com/in/cameron-mackenzie1999/" target="_blank"><img alt="linkedin | LinkedIn" height="23px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.cameronmackenzie.dev" target="_blank"><img alt="website link" height="23px" src="https://img.shields.io/badge/Website-10b981?style=for-the-badge&logo=&logoColor=white" /></a>  
 ---
 ### 🔭 I’m currently working on:
